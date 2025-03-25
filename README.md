@@ -10,7 +10,7 @@ A PostgreSQL database project that stores and queries World Cup match results.
 
 Includes SQL scripts for creating tables, inserting data, and running queries to extract insights.
 
-## 2. [Bike Shop]()
+## 2. [Bike Shop](https://github.com/saurbina/Relational_Database/tree/main/bike_shop)
 
 An interactive Bash program that manages rental information for a bike rental shop.
 
