@@ -18,7 +18,7 @@ Uses PostgreSQL to store and retrieve customer and rental data.
 
 Allows users to interactively book, return, and view rental details.
 
-## 3. [Celestial Bodies Database]()
+## 3. [Celestial Bodies Database](celestial_bodies_database.sql)
 
 A SQL project that defines a database schema for storing information about celestial bodies.
 
