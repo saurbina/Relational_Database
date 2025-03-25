@@ -4,13 +4,13 @@ Welcome to my SQL & Bash Projects repository! This repo contains scripts and pro
 
 Projects
 
-## 1. Worldcup Database
+## 1. [Worldcup Database](https://github.com/saurbina/Relational_Database/tree/main/Worldcup_database)
 
 A PostgreSQL database project that stores and queries World Cup match results.
 
 Includes SQL scripts for creating tables, inserting data, and running queries to extract insights.
 
-## 2. Bike Shop
+## 2. [Bike Shop]()
 
 An interactive Bash program that manages rental information for a bike rental shop.
 
@@ -18,7 +18,7 @@ Uses PostgreSQL to store and retrieve customer and rental data.
 
 Allows users to interactively book, return, and view rental details.
 
-## 3. Celestial Bodies Database
+## 3. [Celestial Bodies Database]()
 
 A SQL project that defines a database schema for storing information about celestial bodies.
 
