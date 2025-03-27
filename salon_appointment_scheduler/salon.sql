@@ -129,7 +129,7 @@ ALTER SEQUENCE public.appointments_service_id_seq OWNED BY public.appointments.s
 
 CREATE TABLE public.customers (
     customer_id integer NOT NULL,
-    phone character varying(8),
+    phone character varying(50),
     name character varying(50)
 );
 
@@ -336,4 +336,3 @@ ALTER TABLE ONLY public.appointments
 --
 -- PostgreSQL database dump complete
 --
-
